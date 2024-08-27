@@ -13,7 +13,7 @@ Este proyecto es una herramienta simple para encriptar y desencriptar textos, id
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone 
+    (https://github.com/Axlop244/ENCRIPTADOR) 
     ```
 2. Abre el archivo `index.html` en tu navegador.
 
@@ -30,5 +30,5 @@ No se requieren instalaciones adicionales, ya que el proyecto utiliza tecnologí
 
 **Autores**: Alisson Lopez Barajas - Desarrollador principal.
 
-**Enlaces relevantes**: [LinkedIn](https://www.linkedin.com/in/tuusuario) | [Portafolio](https://www.tuportafolio.com)
+**Enlaces relevantes**: [LinkedIn](https://www.linkedin.com/in/alisson-lopez-541794219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portafolio](https://github.com/Axlop244/ENCRIPTADOR)
 
